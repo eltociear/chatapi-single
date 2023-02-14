@@ -79,7 +79,7 @@ curl -X "POST" "http://localhost:4000/message/holegots" \
 👤 **Holeogts**
 
 * Twitter: [@fuergaosi](https://twitter.com/fuergaosi)
-* Github: [@fuergaosi233](https://github.com/fuergaosi233)
+* GitHub: [@fuergaosi233](https://github.com/fuergaosi233)
 
 ## Show your support
 
